@@ -2,5 +2,6 @@
 title: Clé USB numérique
 ---
 ## Fichiers
-
-- Exposé Thalès : [[Thales.pptx]]
+### Thales
+- Exposé : [[Thales.pptx]]
+- Affiche : [[affiche-Thales.pdf]]
